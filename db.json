@@ -1,0 +1,216 @@
+{
+  "Usuario":[{
+    "id": 1,
+    "name": "Hewitt",
+    "last_name": "Pennetti",
+    "email": "hpennetti0@bbc.co.uk",
+    "gender": "Female",
+    "cell phone number": 3214672319
+  }, {
+    "id": 2,
+    "name": "Parrnell",
+    "last_name": "Sessuns",
+    "email": "psessuns1@about.com",
+    "gender": "Male",
+    "cell phone number": 3028391238
+  }, {
+    "id": 3,
+    "name": "Car",
+    "last_name": "Whardley",
+    "email": "cwhardley2@sciencedirect.com",
+    "gender": "Female",
+    "cell phone number": 3113278392
+  }, {
+    "id": 4,
+    "name": "Kaspar",
+    "last_name": "Gravener",
+    "email": "kgravener3@is.gd",
+    "gender": "Male",
+    "cell phone number": 32849273912
+  }, {
+    "id": 5,
+    "name": "Izak",
+    "last_name": "Hovy",
+    "email": "ihovy4@quantcast.com",
+    "gender": "Female",
+    "cell phone number": 30012232475
+  }, {
+    "id": 6,
+    "name": "Cary",
+    "last_name": "Dearle-Palser",
+    "email": "cdearlepalser5@msn.com",
+    "gender": "Male",
+    "cell phone number": 3123215673
+  }, {
+    "id": 7,
+    "name": "Derrick",
+    "last_name": "Rosell",
+    "email": "drosell6@exblog.jp",
+    "gender": "Male",
+    "cell phone number": 3147849021
+  }, {
+    "id": 8,
+    "name": "Paxon",
+    "last_name": "Rockcliff",
+    "email": "prockcliff7@drupal.org",
+    "gender": "Female",
+    "cell phone number": 3142164782
+  }, {
+    "id": 9,
+    "name": "Rudolf",
+    "last_name": "Raffan",
+    "email": "rraffan8@ed.gov",
+    "gender": "Female",
+    "cell phone number": 3131246720
+  }, {
+    "id": 10,
+    "name": "Leland",
+    "last_name": "Zanutti",
+    "email": "lzanutti9@census.gov",
+    "gender": "Female",
+    "cell phone number": 3103213271
+  }, {
+    "id": 11,
+    "name": "Cary",
+    "last_name": "Caslett",
+    "email": "ccasletta@surveymonkey.com",
+    "gender": "Female",
+    "cell phone number": 3213421382
+  }, {
+    "id": 12,
+    "name": "Elmo",
+    "last_name": "Chatwood",
+    "email": "echatwoodb@jimdo.com",
+    "gender": "Female",
+    "cell phone number": 3272567123
+  }, {
+    "id": 13,
+    "name": "Antin",
+    "last_name": "Finnan",
+    "email": "afinnanc@omniture.com",
+    "gender": "Female",
+    "cell phone number": 3125721890
+  }, {
+    "id": 14,
+    "name": "Nikolas",
+    "last_name": "Weddeburn",
+    "email": "nweddeburnd@people.com.cn",
+    "gender": "Female",
+    "cell phone number": 3157328123
+  }, {
+    "id": 15,
+    "name": "Killie",
+    "last_name": "Braine",
+    "email": "kbrainee@imgur.com",
+    "gender": "Male",
+    "cell phone number": 3217213902
+  }],
+  {
+      "Conductores":[{
+        "id": 111,
+        "name": "Weider",
+        "last_name": "Lemonby",
+        "email": "wlemonby0@e-recht24.de",
+        "gender": "Male",
+        "cell phone number": 3215137891,
+        "active": "Si"
+      }, {
+        "id": 22,
+        "name": "Clem",
+        "last_name": "Cours",
+        "email": "ccours1@soundcloud.com",
+        "gender": "Female",
+        "cell phone number": 3147217290,
+        "active": "Si"
+      }, {
+        "id": 31,
+        "name": "Dennison",
+        "last_name": "Desbrow",
+        "email": "ddesbrow2@kickstarter.com",
+        "gender": "Female",
+        "cell phone number": 3112357210,
+        "active": "No"
+      }, {
+        "id": 43,
+        "name": "Scotti",
+        "last_name": "Dirr",
+        "email": "sdirr3@constantcontact.com",
+        "gender": "Female",
+        "cell phone number": 3172719321,
+        "active": "Si"
+      }, {
+        "id": 54,
+        "name": "Marlowe",
+        "last_name": "Stiebler",
+        "email": "mstiebler4@ihg.com",
+        "gender": "Male",
+        "cell phone number": 3312316710,
+        "active": "No"
+      }, {
+        "id": 61,
+        "name": "Cory",
+        "last_name": "O' Cuolahan",
+        "email": "cocuolahan5@wikia.com",
+        "gender": "Female",
+        "cell phone number": 3173241620,
+        "active": "No"
+      }, {
+        "id": 73,
+        "name": "Chaim",
+        "last_name": "Rivel",
+        "email": "crivel6@shareasale.com",
+        "gender": "Female",
+        "cell phone number": 3172890123,
+        "active": "No"
+      }, {
+        "id": 82,
+        "name": "Ralf",
+        "last_name": "Andrivel",
+        "email": "randrivel7@geocities.com",
+        "gender": "Female",
+        "cell phone number": 3112712718,
+        "active": "Si"
+      }, {
+        "id": 19,
+        "name": "Bil",
+        "last_name": "Housam",
+        "email": "bhousam8@wordpress.org",
+        "gender": "Male",
+        "cell phone number": 3278193210,
+        "active": "Si"
+      }, {
+        "id": 27,
+        "name": "Giles",
+        "last_name": "Maggiori",
+        "email": "gmaggiori9@about.com",
+        "gender": "Male",
+        "cell phone number": 2318271289,
+        "active": "Si"
+      }, {
+        "id": 11,
+        "name": "Erl",
+        "last_name": "Willacot",
+        "email": "ewillacota@biblegateway.com",
+        "gender": "Male",
+        "cell phone number": 3214212352,
+        "active": "Si"
+      }, {
+        "id": 12,
+        "name": "Dewey",
+        "last_name": "Cully",
+        "email": "dcullyb@apache.org",
+        "gender": "Female",
+        "cell phone number": 3291287321,
+        "active": "No"
+      }, {
+        "id": 13,
+        "name": "Lance",
+        "last_name": "Anwell",
+        "email": "lanwellc@google.com",
+        "gender": "Female",
+        "cell phone number": 3172319301,
+        "active": "No"
+      }]
+    }
+  }
+}
